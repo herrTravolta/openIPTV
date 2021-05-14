@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 date="14-may-21" time="17.00"
 
-#EXTINF:-1 tvg-name="BBC Radio 1" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p029j9mc.jpg" group-title="Radio",bbc radio 1
+#EXTINF:-1 tvg-name="BBC Radio 1" tvg-logo="http://www.berlinweb.eu/iptv/bbc1.png" group-title="Radio",bbc radio 1
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 
 #EXTINF:-1 tvg-name="BBC Radio 2" tvg-logo="http://www.berlinweb.eu/iptv/bbc2.png" group-title="Radio",bbc radio 2
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
 
-#EXTINF:-1 tvg-name="BBC Radio 3" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p029j9mc.jpg" group-title="Radio",bbc radio 3
+#EXTINF:-1 tvg-name="BBC Radio 3" tvg-logo="http://www.berlinweb.eu/iptv/bbc3.png" group-title="Radio",bbc radio 3
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
 
 #EXTINF:-1 tvg-name="one fm 913 (Singapore)" group-title="Radio" tvg-logo="http://www.berlinweb.eu/iptv/one-fm913.jpg",one fm 913 (Singapore)
