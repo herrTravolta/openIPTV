@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 date="30-april-21" time="17.10"
+#EXTINF:-1 date="14-may-21" time="17.00"
 
 #EXTINF:-1 tvg-name="BBC Radio 1" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p029j9mc.jpg" group-title="Radio",bbc radio 1
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 
-#EXTINF:-1 tvg-name="BBC Radio 2" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/88/e1/3244/1/c175.png" group-title="Radio",bbc radio 2
+#EXTINF:-1 tvg-name="BBC Radio 2" tvg-logo="http://www.berlinweb.eu/iptv/bbc2.png" group-title="Radio",bbc radio 2
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
 
 #EXTINF:-1 tvg-name="BBC Radio 3" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p029j9mc.jpg" group-title="Radio",bbc radio 3
